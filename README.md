@@ -12,7 +12,4 @@ This repository provides a Python-based implementation for real-time hand tracki
   ```bash
   git clone https://github.com/Avinashrkrk/Hand-Tracking-In-Real-Time.git
   cd Hand-Tracking-In-Real-Time
-
-
-
-
+2. **Install Dependencies**
