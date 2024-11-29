@@ -9,8 +9,7 @@ This repository provides a Python-based implementation for real-time hand tracki
 ## Installation and Setup
 #1. Clone the Repository
 Use the following command to clone the repository:
-#!/bin/bash
-git clone https://github.com/Avinashrkrk/Hand-Tracking-In-Real-Time.git
-cd Hand-Tracking-In-Real-Time
+`git clone https://github.com/Avinashrkrk/Hand-Tracking-In-Real-Time.git
+cd Hand-Tracking-In-Real-Time`
 
 
