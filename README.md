@@ -44,10 +44,6 @@ This repository provides a Python-based implementation for real-time hand tracki
 - output_videos/: Folder for saving processed videos
 - requirements.txt: File specifying required dependencies
 
-**Install all dependencies with:**
-```bash
-pip install -r requirements.txt
-```
 ## Applications
 * Gesture-controlled interfaces
 * Augmented and Virtual Reality
