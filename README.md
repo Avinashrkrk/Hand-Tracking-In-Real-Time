@@ -3,7 +3,7 @@ This repository provides a Python-based implementation for real-time hand tracki
 
 ## Demo Video
 https://github.com/user-attachments/assets/ca682445-74b6-4f16-9959-6ab1ef023c86
-
+https://github.com/user-attachments/assets/9ef59a05-6bd6-4ea7-92e4-d426fc11dc70
 
 
 ## Features
