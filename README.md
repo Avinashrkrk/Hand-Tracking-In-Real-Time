@@ -1,13 +1,6 @@
 ﻿## Hand-Tracking-In-Real-Time
 This repository provides a Python-based implementation for real-time hand tracking using the MediaPipe library. It includes scripts to process live webcam feeds and video files, enabling robust applications like gesture recognition, interactive systems, and more.
 
-## Demo Video
-https://github.com/user-attachments/assets/ca682445-74b6-4f16-9959-6ab1ef023c86
-
-
-https://github.com/user-attachments/assets/9ef59a05-6bd6-4ea7-92e4-d426fc11dc70
-
-
 ## Features
 * Real-Time Hand Detection: Tracks hands using a live webcam feed.
 * Video File Processing: Tracks hands in pre-recorded video files.
