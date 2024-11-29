@@ -12,4 +12,44 @@ This repository provides a Python-based implementation for real-time hand tracki
   ```bash
   git clone https://github.com/Avinashrkrk/Hand-Tracking-In-Real-Time.git
   cd Hand-Tracking-In-Real-Time
+```
 2. **Install Dependencies**
+   Install the required Python libraries using pip:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Prepare Input Files (Optional)**
+   - Place video files in the Input folder for processing.
+   - Ensure your webcam is connected for real-time tracking.
+
+## Usage Instructions
+1. **Hand Tracking from Live Webcam**
+   Run the following command to start hand tracking using a webcam feed:
+   ```bash
+   python Hand-Tracking-In-Real-Time.py
+   ```
+2. **Hand Tracking in Video Files**
+   To process hand tracking on pre-recorded videos:
+   1. Place input videos in the Input_videos folder.
+   2. Run the script:
+      ```bash
+      python HandTracking-from-video.py
+      ```
+   3. Processed videos with hand landmarks will be saved in the output_videos folder.
+
+## Project Structure
+- Hand-Tracking-In-Real-Time.py: Script for real-time hand tracking via webcam.
+- HandTracking-from-video.py: Script for processing hand tracking in video files.
+- Input_videos/: Folder for storing video files for processing.
+- output_videos/: Folder for saving processed videos
+- requirements.txt: File specifying required dependencies
+
+**Install all dependencies with:**
+```bash
+pip install -r requirements.txt
+```
+## Applications
+* Gesture-controlled interfaces
+* Augmented and Virtual Reality
+* Gaming and interactive systems
+* Sign language recognition
