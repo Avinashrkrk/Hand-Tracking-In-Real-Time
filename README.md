@@ -6,10 +6,13 @@ This repository provides a Python-based implementation for real-time hand tracki
 * Video File Processing: Tracks hands in pre-recorded video files.
 * Output with Overlays: Visualizes tracked hand landmarks in the processed output.
 
-## Installation and Setup
-#1. Clone the Repository
-Use the following command to clone the repository:
-`git clone https://github.com/Avinashrkrk/Hand-Tracking-In-Real-Time.git
-cd Hand-Tracking-In-Real-Time`
+**Installation and Setup**
+1. **Clone the Repository**
+  Use the following command to clone the repository:
+  ```bash
+  git clone https://github.com/Avinashrkrk/Hand-Tracking-In-Real-Time.git
+  cd Hand-Tracking-In-Real-Time
+
+
 
 
